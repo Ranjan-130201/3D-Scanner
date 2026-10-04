@@ -1,5 +1,5 @@
 # 3D-Scanner
-To scan an object or surrounding using line laser, stepper mortor with Arduino Uno Microcontroler and process result with Java, Processing software using Raspberrry pi to create a 3d point cloud
+To scan your surrounding using line laser and create a 3d point cloud, stepper motor with Arduino Uno Microcontroler and process result with Java, Processing software onboard a Raspberrry pi
 
 Video Link: 
 https://drive.google.com/file/d/1Z2cXCIwaIjFC3-YRC5lZ1xgBIf-2kl5j/view?usp=sharing
